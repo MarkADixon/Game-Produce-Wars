@@ -1,0 +1,3715 @@
+<WORLD>
+World:6
+Level:3
+WorldGridTileWidth:16
+WorldGridTileHeight:16
+WorldGridMapWidth:240
+WorldGridMapHeight:100
+TexturePack:\Textures\SnowTexturePack.pck
+<ENDWORLD>
+
+<LAYER>
+LayerName:SkyDay
+LayerParallax:{X:0 Y:0}
+<ENDLAYER>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:0 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:320 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:640 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:960 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:1280 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:BackMtns
+LayerParallax:{X:0.1 Y:0.05}
+<ENDLAYER>
+
+<SPRITE>
+ID:3
+Index:0
+Rect:{X:0 Y:216 Width:320 Height:420}
+<ENDSPRITE>
+
+<SPRITE>
+ID:3
+Index:0
+Rect:{X:320 Y:216 Width:320 Height:420}
+<ENDSPRITE>
+
+<SPRITE>
+ID:3
+Index:0
+Rect:{X:640 Y:216 Width:320 Height:420}
+<ENDSPRITE>
+
+<SPRITE>
+ID:3
+Index:0
+Rect:{X:960 Y:216 Width:320 Height:420}
+<ENDSPRITE>
+
+<SPRITE>
+ID:3
+Index:0
+Rect:{X:1280 Y:216 Width:320 Height:420}
+<ENDSPRITE>
+
+<SPRITE>
+ID:3
+Index:0
+Rect:{X:1600 Y:216 Width:320 Height:420}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:FrontMtns
+LayerParallax:{X:0.15 Y:0.075}
+<ENDLAYER>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:0 Y:282 Width:320 Height:440}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:320 Y:282 Width:320 Height:440}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:640 Y:282 Width:320 Height:440}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:960 Y:282 Width:320 Height:440}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:1280 Y:282 Width:320 Height:440}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:1600 Y:282 Width:320 Height:440}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:BackTrees
+LayerParallax:{X:0.25 Y:0.125}
+<ENDLAYER>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:0 Y:386 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:320 Y:386 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:640 Y:386 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:960 Y:386 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:1280 Y:386 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:1600 Y:386 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:1920 Y:386 Width:320 Height:444}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:BackBank
+LayerParallax:{X:0.3 Y:0.15}
+<ENDLAYER>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:0 Y:484 Width:320 Height:320}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:320 Y:484 Width:320 Height:320}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:640 Y:484 Width:320 Height:320}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:960 Y:484 Width:320 Height:320}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:1280 Y:484 Width:320 Height:320}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:1600 Y:484 Width:320 Height:320}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:1920 Y:484 Width:320 Height:320}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:MidTrees
+LayerParallax:{X:0.35 Y:0.175}
+<ENDLAYER>
+
+<SPRITE>
+ID:9
+Index:0
+Rect:{X:0 Y:498 Width:320 Height:376}
+<ENDSPRITE>
+
+<SPRITE>
+ID:9
+Index:0
+Rect:{X:320 Y:498 Width:320 Height:376}
+<ENDSPRITE>
+
+<SPRITE>
+ID:9
+Index:0
+Rect:{X:640 Y:498 Width:320 Height:376}
+<ENDSPRITE>
+
+<SPRITE>
+ID:9
+Index:0
+Rect:{X:960 Y:498 Width:320 Height:376}
+<ENDSPRITE>
+
+<SPRITE>
+ID:9
+Index:0
+Rect:{X:1280 Y:498 Width:320 Height:376}
+<ENDSPRITE>
+
+<SPRITE>
+ID:9
+Index:0
+Rect:{X:1600 Y:498 Width:320 Height:376}
+<ENDSPRITE>
+
+<SPRITE>
+ID:9
+Index:0
+Rect:{X:1920 Y:498 Width:320 Height:376}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:MidBank
+LayerParallax:{X:0.4 Y:0.2}
+<ENDLAYER>
+
+<SPRITE>
+ID:8
+Index:0
+Rect:{X:0 Y:572 Width:320 Height:260}
+<ENDSPRITE>
+
+<SPRITE>
+ID:8
+Index:0
+Rect:{X:320 Y:572 Width:320 Height:260}
+<ENDSPRITE>
+
+<SPRITE>
+ID:8
+Index:0
+Rect:{X:640 Y:572 Width:320 Height:260}
+<ENDSPRITE>
+
+<SPRITE>
+ID:8
+Index:0
+Rect:{X:960 Y:572 Width:320 Height:260}
+<ENDSPRITE>
+
+<SPRITE>
+ID:8
+Index:0
+Rect:{X:1280 Y:572 Width:320 Height:260}
+<ENDSPRITE>
+
+<SPRITE>
+ID:8
+Index:0
+Rect:{X:1600 Y:572 Width:320 Height:260}
+<ENDSPRITE>
+
+<SPRITE>
+ID:8
+Index:0
+Rect:{X:1920 Y:572 Width:320 Height:260}
+<ENDSPRITE>
+
+<SPRITE>
+ID:8
+Index:0
+Rect:{X:2240 Y:572 Width:320 Height:260}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:FrontTrees
+LayerParallax:{X:0.47 Y:0.235}
+<ENDLAYER>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:0 Y:498 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:320 Y:498 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:640 Y:498 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:960 Y:498 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:1280 Y:498 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:1600 Y:498 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:1920 Y:498 Width:320 Height:444}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:2240 Y:498 Width:320 Height:444}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:FrontBank
+LayerParallax:{X:0.5 Y:0.25}
+<ENDLAYER>
+
+<SPRITE>
+ID:5
+Index:0
+Rect:{X:0 Y:764 Width:320 Height:160}
+<ENDSPRITE>
+
+<SPRITE>
+ID:5
+Index:0
+Rect:{X:320 Y:764 Width:320 Height:160}
+<ENDSPRITE>
+
+<SPRITE>
+ID:5
+Index:0
+Rect:{X:640 Y:764 Width:320 Height:160}
+<ENDSPRITE>
+
+<SPRITE>
+ID:5
+Index:0
+Rect:{X:960 Y:764 Width:320 Height:160}
+<ENDSPRITE>
+
+<SPRITE>
+ID:5
+Index:0
+Rect:{X:1280 Y:764 Width:320 Height:160}
+<ENDSPRITE>
+
+<SPRITE>
+ID:5
+Index:0
+Rect:{X:1600 Y:764 Width:320 Height:160}
+<ENDSPRITE>
+
+<SPRITE>
+ID:5
+Index:0
+Rect:{X:1920 Y:764 Width:320 Height:160}
+<ENDSPRITE>
+
+<SPRITE>
+ID:5
+Index:0
+Rect:{X:2240 Y:764 Width:320 Height:160}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:ParaDeco
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<LAYER>
+LayerName:BackDeco2
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+ID:37
+Index:3
+Rect:{X:55 Y:902 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:37
+Index:3
+Rect:{X:612 Y:1028 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:37
+Index:3
+Rect:{X:1141 Y:1157 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:37
+Index:3
+Rect:{X:1594 Y:1094 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:37
+Index:3
+Rect:{X:2071 Y:1220 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:37
+Index:3
+Rect:{X:2488 Y:1090 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:37
+Index:3
+Rect:{X:3333 Y:1092 Width:256 Height:256}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:BackDeco1
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+ID:55
+Index:20
+Rect:{X:3264 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:3328 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:3392 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:3456 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:3520 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:3584 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:22
+Rect:{X:3648 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:22
+Rect:{X:2512 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:2448 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:20
+Rect:{X:2384 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:20
+Rect:{X:1920 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:1984 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:22
+Rect:{X:2048 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:22
+Rect:{X:1584 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:20
+Rect:{X:1520 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:22
+Rect:{X:1376 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:22
+Rect:{X:1136 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:20
+Rect:{X:1312 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:1072 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:1008 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:20
+Rect:{X:944 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:22
+Rect:{X:544 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:480 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:21
+Rect:{X:416 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:20
+Rect:{X:352 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:20
+Rect:{X:192 Y:1088 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:22
+Rect:{X:256 Y:1088 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:27
+Rect:{X:48 Y:1088 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:26
+Rect:{X:656 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:29
+Rect:{X:768 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:28
+Rect:{X:1200 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:27
+Rect:{X:1648 Y:1296 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:29
+Rect:{X:2544 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:Hazard
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<LAYER>
+LayerName:Terrain
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3456 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3392 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3328 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3264 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3200 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3136 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2688 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2624 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3520 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3584 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3648 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3712 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:3776 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3712 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3776 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:4
+Rect:{X:3200 Y:1312 Width:64 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:4
+Rect:{X:3104 Y:1312 Width:64 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:25
+Index:4
+Rect:{X:3168 Y:1312 Width:32 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:3088 Y:1264 Width:64 Height:32}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:3184 Y:1264 Width:64 Height:32}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:3104 Y:1216 Width:64 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:3168 Y:1216 Width:64 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:3104 Y:1200 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2960 Y:1200 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2816 Y:1200 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2672 Y:1200 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:2672 Y:1216 Width:64 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:2736 Y:1216 Width:64 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:2656 Y:1264 Width:64 Height:32}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:2752 Y:1264 Width:64 Height:32}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:4
+Rect:{X:2640 Y:1312 Width:64 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:4
+Rect:{X:2736 Y:1312 Width:64 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:25
+Index:4
+Rect:{X:2704 Y:1312 Width:32 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2872 Y:1272 Width:128 Height:16}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2760 Y:1272 Width:128 Height:16}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2904 Y:1272 Width:128 Height:16}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:3013 Y:1272 Width:128 Height:16}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:3049 Y:1128 Width:128 Height:16}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2728 Y:1128 Width:128 Height:16}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2768 Y:1056 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:3008 Y:1056 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2640 Y:1056 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:3136 Y:1056 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2672 Y:912 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:3104 Y:912 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:2832 Y:992 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:3008 Y:992 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:2672 Y:832 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:1
+Rect:{X:3104 Y:832 Width:128 Height:16}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:6
+Rect:{X:592 Y:992 Width:96 Height:96}
+HP:-1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:0 Y:1536 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:0 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:0 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:0 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:0 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:0 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:0 Y:1152 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:64 Y:1152 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:128 Y:1152 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:192 Y:1152 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:4
+Rect:{X:256 Y:1152 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:6
+Rect:{X:256 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:320 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:384 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:448 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:512 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:576 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:640 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:704 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:768 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:15
+Rect:{X:832 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:15
+Rect:{X:896 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:11
+Rect:{X:256 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:11
+Rect:{X:832 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:960 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1024 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1088 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1152 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1216 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1280 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1344 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1408 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:14
+Rect:{X:1472 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1536 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1600 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1664 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1728 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:15
+Rect:{X:1792 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:15
+Rect:{X:1856 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2560 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2496 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2432 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2368 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:14
+Rect:{X:2304 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:14
+Rect:{X:2240 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2176 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2112 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2048 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1984 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:1920 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:10
+Rect:{X:2304 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:10
+Rect:{X:2240 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:11
+Rect:{X:1792 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:11
+Rect:{X:1856 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:11
+Rect:{X:896 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:10
+Rect:{X:1472 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:4
+Rect:{X:2752 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:2
+Rect:{X:3072 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:14
+Rect:{X:3008 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:15
+Rect:{X:2816 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2880 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:3
+Rect:{X:2944 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:6
+Rect:{X:2816 Y:1344 Width:128 Height:16}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:32
+Index:6
+Rect:{X:2944 Y:1344 Width:128 Height:16}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:10
+Rect:{X:3072 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:10
+Rect:{X:3008 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:11
+Rect:{X:2752 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:11
+Rect:{X:2816 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3072 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3072 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3136 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3200 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3264 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3328 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3392 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3456 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3520 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3584 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3648 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3712 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3776 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3776 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3712 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3648 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3584 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3520 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3456 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3392 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3136 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3136 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3200 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3264 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3328 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3328 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3264 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3200 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3392 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3456 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3520 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3584 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:3648 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2816 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2880 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2944 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:3008 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2752 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2752 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2240 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2304 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2368 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2432 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2496 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2560 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2624 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2688 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2688 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2688 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2624 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2560 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2496 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2432 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2368 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2304 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2368 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2432 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2496 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2560 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2624 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1856 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1920 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1984 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2048 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:2112 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:2176 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1792 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1792 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:832 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:832 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:832 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:896 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:960 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1024 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1088 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1152 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1216 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1280 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1344 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1408 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1472 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1472 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1408 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1344 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1280 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1216 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1152 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1088 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1024 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:960 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:896 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1536 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1600 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1664 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1728 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1536 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1600 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1664 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1728 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1728 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1664 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:1600 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:1536 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:256 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:256 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:256 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:256 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:192 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:128 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:64 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:64 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:64 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:64 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:64 Y:1280 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:64 Y:1216 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:128 Y:1216 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:192 Y:1216 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:128 Y:1280 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:192 Y:1280 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:128 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:192 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:128 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:192 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:128 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:192 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:320 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:384 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:448 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:512 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:576 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:640 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:704 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:768 Y:1536 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:768 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:768 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:768 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:704 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:640 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:576 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:512 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:448 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:384 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:320 Y:1344 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:320 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:320 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:384 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:448 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:512 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:576 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:640 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:704 Y:1472 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:704 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:640 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:576 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:512 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:0
+Rect:{X:448 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:0
+Index:1
+Rect:{X:384 Y:1408 Width:64 Height:64}
+HP:1
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:2656 Y:864 Width:64 Height:32}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:2752 Y:864 Width:64 Height:32}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:3088 Y:864 Width:64 Height:32}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:28
+Index:2
+Rect:{X:3184 Y:864 Width:64 Height:32}
+Rot:4.712389
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:2672 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:2672 Y:1072 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:3168 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:3168 Y:1072 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:2704 Y:1248 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:3136 Y:1248 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:50
+Index:0
+Rect:{X:3136 Y:1168 Width:32 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:50
+Index:0
+Rect:{X:2736 Y:1168 Width:32 Height:32}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:2832 Y:1072 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:2
+Rect:{X:3008 Y:1072 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:3
+Rect:{X:2832 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:3
+Rect:{X:3008 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:31
+Index:3
+Rect:{X:2704 Y:736 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:31
+Index:3
+Rect:{X:3104 Y:736 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:1
+Rect:{X:2656 Y:992 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:1
+Rect:{X:2752 Y:992 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:1
+Rect:{X:3184 Y:992 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:1
+Rect:{X:3088 Y:992 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:0
+Rect:{X:2656 Y:928 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:0
+Rect:{X:2752 Y:928 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:0
+Rect:{X:3088 Y:928 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:0
+Rect:{X:3184 Y:928 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:21
+Index:98
+Rect:{X:2704 Y:848 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:21
+Index:98
+Rect:{X:3136 Y:848 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:21
+Index:98
+Rect:{X:3008 Y:928 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:21
+Index:98
+Rect:{X:2832 Y:928 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:21
+Index:98
+Rect:{X:2848 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:21
+Index:98
+Rect:{X:2992 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:Deco1
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+ID:55
+Index:23
+Rect:{X:3360 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:24
+Rect:{X:3424 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:25
+Rect:{X:3488 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:25
+Rect:{X:2432 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:23
+Rect:{X:2368 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:23
+Rect:{X:2640 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:25
+Rect:{X:2704 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:25
+Rect:{X:3200 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:23
+Rect:{X:3136 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:23
+Rect:{X:1264 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:24
+Rect:{X:1328 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:25
+Rect:{X:1392 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:25
+Rect:{X:736 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:24
+Rect:{X:672 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:24
+Rect:{X:608 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:24
+Rect:{X:544 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:23
+Rect:{X:480 Y:1216 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:23
+Rect:{X:128 Y:1088 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:55
+Index:25
+Rect:{X:192 Y:1088 Width:64 Height:64}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:Deco2
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:0 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:64 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:256 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:320 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:448 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:576 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:768 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:960 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:1088 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:1152 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:1280 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:1408 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:1536 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:1728 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:1920 Y:1456 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:2048 Y:1456 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:2368 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:2496 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:2560 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:2688 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:2880 Y:1456 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:3072 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:3200 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:3264 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:3392 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:3520 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:0
+Rect:{X:3712 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:3328 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:3136 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:3456 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:3584 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:3648 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:3776 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:2944 Y:1456 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:2752 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:2624 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:2432 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:2176 Y:1456 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:2112 Y:1456 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:1984 Y:1456 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:1664 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:1600 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:1344 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:1216 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:1024 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:704 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:640 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:512 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:384 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:192 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:1
+Rect:{X:128 Y:1136 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:2
+Rect:{X:256 Y:1264 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:2
+Rect:{X:320 Y:1136 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:832 Y:1280 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:896 Y:1344 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:832 Y:1344 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:896 Y:1408 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:832 Y:1216 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:896 Y:1280 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:1792 Y:1344 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:1856 Y:1408 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:1792 Y:1408 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:1856 Y:1472 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:1792 Y:1280 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:1856 Y:1344 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:1472 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:1472 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:1472 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:2
+Rect:{X:3008 Y:1328 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:2240 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:2304 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:3008 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:4
+Rect:{X:2816 Y:1408 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:2816 Y:1472 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:2816 Y:1344 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:2
+Rect:{X:3072 Y:1392 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:2
+Rect:{X:2816 Y:1328 Width:64 Height:64}
+FlipH:True
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:2304 Y:1408 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:2240 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:5
+Rect:{X:3008 Y:1472 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:3008 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:2240 Y:1344 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:3
+Rect:{X:2304 Y:1280 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:2
+Rect:{X:2752 Y:1392 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:18
+Rect:{X:3757 Y:1396 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:18
+Rect:{X:3300 Y:1535 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:18
+Rect:{X:2587 Y:1400 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:17
+Rect:{X:3551 Y:1457 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:17
+Rect:{X:2835 Y:1533 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:3712 Y:1521 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:3267 Y:1404 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:2638 Y:1531 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:3610 Y:1376 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:3434 Y:1501 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:3099 Y:1520 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:2718 Y:1424 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:3682 Y:1427 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:3537 Y:1529 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:3415 Y:1407 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:3162 Y:1423 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:3206 Y:1547 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:2941 Y:1528 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:2760 Y:1507 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:2643 Y:1399 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:17
+Rect:{X:2314 Y:1508 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:17
+Rect:{X:1617 Y:1414 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:18
+Rect:{X:1395 Y:1521 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:18
+Rect:{X:1960 Y:1522 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:2486 Y:1447 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:2063 Y:1553 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:1731 Y:1427 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:1529 Y:1551 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:1438 Y:1446 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:1726 Y:1518 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:2360 Y:1440 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:2491 Y:1542 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:2529 Y:1373 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:2202 Y:1515 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:1877 Y:1548 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:1677 Y:1375 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:1565 Y:1484 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:17
+Rect:{X:1169 Y:1547 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:17
+Rect:{X:694 Y:1339 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:17
+Rect:{X:264 Y:1504 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:18
+Rect:{X:660 Y:1459 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:18
+Rect:{X:124 Y:1277 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:30 Y:1524 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:349 Y:1364 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:660 Y:1544 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:20
+Rect:{X:1043 Y:1454 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:44 Y:1213 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:150 Y:1429 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:509 Y:1442 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:789 Y:1449 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:1043 Y:1555 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:21
+Rect:{X:1293 Y:1471 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:1274 Y:1528 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:1131 Y:1463 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:925 Y:1510 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:598 Y:1351 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:396 Y:1539 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:249 Y:1413 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:16 Y:1351 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:1
+Index:19
+Rect:{X:216 Y:1202 Width:64 Height:64}
+<ENDSPRITE>
+
+<ENDFILE>

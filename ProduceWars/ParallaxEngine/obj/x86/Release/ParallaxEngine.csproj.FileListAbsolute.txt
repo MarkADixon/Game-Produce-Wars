@@ -1,0 +1,47 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\bin\x86\Release\WindowsGameLibrary1.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\bin\x86\Release\WindowsGameLibrary1.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\obj\x86\Release\WindowsGameLibrary1.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\obj\x86\Release\WindowsGameLibrary1.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\ParallaxEngine.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\ParallaxEngine.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\x86\Release\ParallaxEngine.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\x86\Release\ParallaxEngine.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.xml
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\obj\x86\Release\ParallaxEngine.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\ParallaxEngine.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\ParallaxEngine.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.xml
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\obj\x86\Release\ParallaxEngine.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\EasyStorage.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\EasyStorage.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\de\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\es\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\it\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ParallaxEngine\bin\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ParallaxEngine\obj\x86\Release\ParallaxEngine.csprojResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\ParallaxEngine.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\ParallaxEngine.pdb
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\EasyStorage.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\EasyStorage.pdb
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\de\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\es\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\it\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\obj\x86\Release\ParallaxEngine.csprojResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\obj\x86\Release\ParallaxEngine.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\obj\x86\Release\ParallaxEngine.pdb
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.xml

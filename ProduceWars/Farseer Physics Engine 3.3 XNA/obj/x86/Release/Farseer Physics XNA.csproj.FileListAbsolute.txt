@@ -1,0 +1,20 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\bin\x86\Release\FarseerPhysicsXNA.XML
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\bin\x86\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\bin\x86\Release\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\bin\x86\Release\DebugViewXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\bin\x86\Release\DebugViewXNA.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\bin\x86\Release\DebugViewXNA.xml
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\obj\x86\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\obj\x86\Release\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\documents\visual studio 2010\Projects\Farseer Physics Engine 3.3 XNA\obj\x86\Release\Farseer Physics XNA.csprojResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\bin\x86\Release\FarseerPhysicsXNA.XML
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\bin\x86\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\bin\x86\Release\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\bin\x86\Release\DebugViewXNA.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\bin\x86\Release\DebugViewXNA.pdb
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\bin\x86\Release\DebugViewXNA.xml
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\obj\x86\Release\Farseer Physics XNA.csprojResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\obj\x86\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\Farseer Physics Engine 3.3 XNA\obj\x86\Release\FarseerPhysicsXNA.pdb

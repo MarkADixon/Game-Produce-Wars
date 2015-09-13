@@ -1,0 +1,2032 @@
+<WORLD>
+World:2
+Level:8
+WorldGridTileWidth:16
+WorldGridTileHeight:16
+WorldGridMapWidth:360
+WorldGridMapHeight:100
+TexturePack:\Textures\WoodsTexturePack.pck
+<ENDWORLD>
+
+<LAYER>
+LayerName:SkyDay
+LayerParallax:{X:0 Y:0}
+<ENDLAYER>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:0 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:320 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:640 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:960 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:34
+Index:0
+Rect:{X:1280 Y:0 Width:320 Height:720}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:BackBushes
+LayerParallax:{X:0.15 Y:0.075}
+<ENDLAYER>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:0 Y:66 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:320 Y:66 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:640 Y:66 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:960 Y:66 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:1280 Y:66 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:1600 Y:66 Width:320 Height:720}
+<ENDSPRITE>
+
+<SPRITE>
+ID:2
+Index:0
+Rect:{X:1920 Y:66 Width:320 Height:720}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:MidBushes
+LayerParallax:{X:0.2 Y:0.1}
+<ENDLAYER>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:0 Y:8 Width:320 Height:800}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:320 Y:8 Width:320 Height:800}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:640 Y:8 Width:320 Height:800}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:960 Y:8 Width:320 Height:800}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:1280 Y:8 Width:320 Height:800}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:1600 Y:8 Width:320 Height:800}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:1920 Y:8 Width:320 Height:800}
+<ENDSPRITE>
+
+<SPRITE>
+ID:7
+Index:0
+Rect:{X:2240 Y:8 Width:320 Height:800}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:FrontBushes
+LayerParallax:{X:0.25 Y:0.125}
+<ENDLAYER>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:0 Y:-30 Width:320 Height:860}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:320 Y:-30 Width:320 Height:860}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:640 Y:-30 Width:320 Height:860}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:960 Y:-30 Width:320 Height:860}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:1280 Y:-30 Width:320 Height:860}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:1600 Y:-30 Width:320 Height:860}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:1920 Y:-30 Width:320 Height:860}
+<ENDSPRITE>
+
+<SPRITE>
+ID:6
+Index:0
+Rect:{X:2240 Y:-30 Width:320 Height:860}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:CloseBushes
+LayerParallax:{X:0.4 Y:0.2}
+<ENDLAYER>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:0 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:320 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:640 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:960 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:1280 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:1600 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:1920 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:2240 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:2560 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<SPRITE>
+ID:4
+Index:0
+Rect:{X:2880 Y:666 Width:320 Height:230}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:ParaDeco
+LayerParallax:{X:0.8 Y:0.4}
+<ENDLAYER>
+
+<LAYER>
+LayerName:BackDeco1
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<LAYER>
+LayerName:BackDeco2
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<LAYER>
+LayerName:Hazard
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+ID:56
+Index:3
+Rect:{X:304 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:336 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:368 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:400 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:432 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:464 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:496 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:528 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:560 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:592 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:624 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:656 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:688 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:720 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:752 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:784 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:816 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:848 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:880 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:5
+Rect:{X:912 Y:1120 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:5
+Rect:{X:912 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:880 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:848 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:816 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:784 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:752 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:720 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:688 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:656 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:624 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:592 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:560 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:528 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:496 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:464 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:432 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:400 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:368 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:336 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:3
+Rect:{X:304 Y:448 Width:32 Height:32}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:3
+Rect:{X:272 Y:480 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:3
+Rect:{X:944 Y:480 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:512 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:544 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:576 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:608 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:640 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:672 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:704 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:736 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:768 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:800 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:832 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:864 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:896 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:928 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:960 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:992 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:1024 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:944 Y:1056 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:512 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:544 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:576 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:608 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:640 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:672 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:704 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:736 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:768 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:800 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:832 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:864 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:896 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:928 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:960 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:992 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:1024 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:4
+Rect:{X:272 Y:1056 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:5
+Rect:{X:272 Y:1088 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:56
+Index:5
+Rect:{X:944 Y:1088 Width:32 Height:32}
+Rot:1.570796
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1088 Y:736 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1968 Y:976 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1968 Y:848 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1968 Y:720 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2896 Y:688 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:3008 Y:496 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2288 Y:912 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2288 Y:544 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1392 Y:592 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1504 Y:688 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2592 Y:720 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:3296 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:3296 Y:512 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:3344 Y:768 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:3488 Y:976 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:4032 Y:576 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:3872 Y:768 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:4064 Y:704 Width:128 Height:128}
+Path:1
+PathX:320
+PathY:0
+PathSp:96
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:4688 Y:496 Width:128 Height:128}
+Path:3
+PathX:480
+PathY:480
+PathSp:128
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:5120 Y:496 Width:128 Height:128}
+Path:3
+PathX:480
+PathY:480
+PathSp:128
+Path%:25
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:51
+Index:0
+Rect:{X:5152 Y:752 Width:64 Height:64}
+<ENDSPRITE>
+
+<LAYER>
+LayerName:Terrain
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:256 Y:768 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:256 Y:656 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:256 Y:880 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:256 Y:544 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:256 Y:432 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:256 Y:992 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:256 Y:1104 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:368 Y:432 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:480 Y:432 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:592 Y:432 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:704 Y:432 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:816 Y:432 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:928 Y:432 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:928 Y:544 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:928 Y:656 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:928 Y:768 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:928 Y:880 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:928 Y:992 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:928 Y:1104 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:816 Y:1104 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:704 Y:1104 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:592 Y:1104 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:480 Y:1104 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:368 Y:1104 Width:64 Height:64}
+Rot:-0.7853982
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:944 Y:352 Width:64 Height:64}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:880 Y:352 Width:64 Height:64}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:29
+Index:5
+Rect:{X:880 Y:288 Width:64 Height:64}
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:21
+Index:77
+Rect:{X:944 Y:288 Width:64 Height:64}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:1104 Y:512 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1536 Y:736 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1440 Y:640 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1344 Y:544 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:1456 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1632 Y:832 Width:128 Height:128}
+Path:1
+PathX:0
+PathY:256
+PathSp:256
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:1808 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:2144 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:1792 Y:576 Width:96 Height:96}
+Path:1
+PathX:352
+PathY:0
+PathSp:192
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2288 Y:976 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2288 Y:848 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2288 Y:496 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2288 Y:624 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:2480 Y:512 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:2848 Y:512 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2528 Y:720 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:2832 Y:720 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:2848 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:45
+Index:0
+Rect:{X:2928 Y:560 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1968 Y:784 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:1968 Y:912 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:45
+Index:0
+Rect:{X:3392 Y:784 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:3280 Y:736 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:3712 Y:512 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:4144 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:45
+Index:0
+Rect:{X:3888 Y:608 Width:256 Height:256}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:3872 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:4304 Y:512 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:4704 Y:512 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:4704 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:4544 Y:704 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:4832 Y:704 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:5136 Y:512 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:5136 Y:992 Width:96 Height:96}
+<ENDSPRITE>
+
+<SPRITE>
+ID:46
+Index:0
+Rect:{X:5392 Y:224 Width:128 Height:128}
+<ENDSPRITE>
+
+<SPRITE>
+ID:52
+Index:0
+Rect:{X:400 Y:752 Width:96 Height:96}
+HP:-1
+Path:1
+PathX:6400
+PathY:0
+PathSp:64
+Path%:0
+PathI:False
+<ENDSPRITE>
+
+<LAYER>
+LayerName:Deco1
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<LAYER>
+LayerName:Deco2
+LayerParallax:{X:1 Y:1}
+<ENDLAYER>
+
+<ENDFILE>

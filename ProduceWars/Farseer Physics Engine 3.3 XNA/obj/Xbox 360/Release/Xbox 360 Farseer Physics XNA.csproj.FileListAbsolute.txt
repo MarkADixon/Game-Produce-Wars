@@ -1,0 +1,6 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\bin\Xbox 360\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\bin\Xbox 360\Release\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\obj\Xbox 360\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3 XNA\obj\Xbox 360\Release\FarseerPhysicsXNA.pdb

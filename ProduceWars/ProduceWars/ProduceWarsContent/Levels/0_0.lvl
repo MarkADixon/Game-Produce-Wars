@@ -1,0 +1,4668 @@
+<WORLD>
+World:1
+Level:1
+WorldGridTileWidth:16
+WorldGridTileHeight:16
+WorldGridMapWidth:200
+WorldGridMapHeight:100
+<ENDWORLD>
+
+<TEXTUREDATA>
+FilePath:Textures\Fruit\fruits
+FileName:fruits
+TextureID:0
+SpriteType:FRUIT
+IsTiled:True
+IsAnimated:False
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Veggies\veggies
+FileName:veggies
+TextureID:1
+SpriteType:VEGGIE
+IsTiled:True
+IsAnimated:False
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Cannon\Cannon
+FileName:Cannon
+TextureID:2
+SpriteType:CANNON
+IsTiled:False
+IsAnimated:False
+TileWidth:96
+TileHeight:96
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Cannon\Wheel
+FileName:Wheel
+TextureID:3
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:96
+TileHeight:96
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\10x1Block
+FileName:10x1Block
+TextureID:4
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:160
+TileHeight:16
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\1x1Block
+FileName:1x1Block
+TextureID:5
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:16
+TileHeight:16
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\2x1Block
+FileName:2x1Block
+TextureID:6
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:32
+TileHeight:16
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\2x2Block
+FileName:2x2Block
+TextureID:7
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:32
+TileHeight:32
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\2x2Sphere
+FileName:2x2Sphere
+TextureID:8
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:32
+TileHeight:32
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\4x1Block
+FileName:4x1Block
+TextureID:9
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:64
+TileHeight:16
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\4x2Block
+FileName:4x2Block
+TextureID:10
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:64
+TileHeight:32
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\4x4Block
+FileName:4x4Block
+TextureID:11
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\4x4Sphere
+FileName:4x4Sphere
+TextureID:12
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\6x6Block
+FileName:6x6Block
+TextureID:13
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:96
+TileHeight:96
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Blocks\8x1Block
+FileName:8x1Block
+TextureID:14
+SpriteType:BLOCK
+IsTiled:True
+IsAnimated:False
+TileWidth:128
+TileHeight:16
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\WorldAll\SkyDay
+FileName:SkyDay
+TextureID:15
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:320
+TileHeight:720
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\WorldAll\SkyDusk
+FileName:SkyDusk
+TextureID:16
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:320
+TileHeight:720
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\WorldAll\SkyNight
+FileName:SkyNight
+TextureID:17
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:320
+TileHeight:720
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\WorldAll\Windmill
+FileName:Windmill
+TextureID:18
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:256
+TileHeight:256
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\Windmill_Blade
+FileName:Windmill_Blade
+TextureID:19
+SpriteType:HAZARD
+IsTiled:False
+IsAnimated:False
+TileWidth:256
+TileHeight:256
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\Beehive
+FileName:Beehive
+TextureID:20
+SpriteType:HAZARD
+IsTiled:True
+IsAnimated:True
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\Campfire
+FileName:Campfire
+TextureID:21
+SpriteType:HAZARD
+IsTiled:True
+IsAnimated:True
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\FanM
+FileName:FanM
+TextureID:22
+SpriteType:HAZARD
+IsTiled:True
+IsAnimated:True
+TileWidth:60
+TileHeight:18
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\Fish
+FileName:Fish
+TextureID:23
+SpriteType:HAZARD
+IsTiled:True
+IsAnimated:True
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\SawBladeL
+FileName:SawBladeL
+TextureID:24
+SpriteType:HAZARD
+IsTiled:False
+IsAnimated:False
+TileWidth:128
+TileHeight:128
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\SawBladeM
+FileName:SawBladeM
+TextureID:25
+SpriteType:HAZARD
+IsTiled:False
+IsAnimated:False
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\SawBladeS
+FileName:SawBladeS
+TextureID:26
+SpriteType:HAZARD
+IsTiled:False
+IsAnimated:False
+TileWidth:32
+TileHeight:32
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\TNTL
+FileName:TNTL
+TextureID:27
+SpriteType:HAZARD
+IsTiled:False
+IsAnimated:False
+TileWidth:128
+TileHeight:128
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\TNTM
+FileName:TNTM
+TextureID:28
+SpriteType:HAZARD
+IsTiled:False
+IsAnimated:False
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Hazards\TNTS
+FileName:TNTS
+TextureID:29
+SpriteType:HAZARD
+IsTiled:False
+IsAnimated:False
+TileWidth:32
+TileHeight:32
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\Powerups\PeachCoin
+FileName:PeachCoin
+TextureID:30
+SpriteType:POWERUP
+IsTiled:True
+IsAnimated:True
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\AnimatedDeco\Sunflower
+FileName:Sunflower
+TextureID:31
+SpriteType:NONE
+IsTiled:True
+IsAnimated:True
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\AnimatedDeco\Water
+FileName:Water
+TextureID:32
+SpriteType:HAZARD
+IsTiled:True
+IsAnimated:True
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\World1\Grass-Hills
+FileName:Grass-Hills
+TextureID:33
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:1280
+TileHeight:720
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\World1\Grass-Hills02
+FileName:Grass-Hills02
+TextureID:34
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:1280
+TileHeight:720
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\World1\HillShort
+FileName:HillShort
+TextureID:35
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:320
+TileHeight:315
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\World1\HillTall
+FileName:HillTall
+TextureID:36
+SpriteType:NONE
+IsTiled:False
+IsAnimated:False
+TileWidth:320
+TileHeight:455
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\World1\GrassTerrain
+FileName:GrassTerrain
+TextureID:37
+SpriteType:TERRAIN
+IsTiled:True
+IsAnimated:False
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<TEXTUREDATA>
+FilePath:Textures\World1\GrassDeco
+FileName:GrassDeco
+TextureID:38
+SpriteType:NONE
+IsTiled:True
+IsAnimated:False
+TileWidth:64
+TileHeight:64
+<ENDTEXTUREDATA>
+
+<LAYER>
+LayerName:SkyDay
+LayerParallax:{X:0 Y:0}
+IsAwake:True
+IsVisible:True
+IsLayerMotion:False
+LayerVelocity:0
+LayerVDirection:{X:0 Y:0}
+IsLayerGravity:False
+LayerAcceleration:0
+LayerADirection:{X:0 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:15
+TextureIndex:0
+SpriteRectangle:{X:0 Y:-195 Width:320 Height:720}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:15
+TextureIndex:0
+SpriteRectangle:{X:320 Y:-195 Width:320 Height:720}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:15
+TextureIndex:0
+SpriteRectangle:{X:640 Y:-195 Width:320 Height:720}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:15
+TextureIndex:0
+SpriteRectangle:{X:960 Y:-195 Width:320 Height:720}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:15
+TextureIndex:0
+SpriteRectangle:{X:1280 Y:-195 Width:320 Height:720}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<LAYER>
+LayerName:HillTall
+LayerParallax:{X:0.2 Y:0.2}
+IsAwake:True
+IsVisible:True
+IsLayerMotion:False
+LayerVelocity:0
+LayerVDirection:{X:0 Y:0}
+IsLayerGravity:False
+LayerAcceleration:0
+LayerADirection:{X:0 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:36
+TextureIndex:0
+SpriteRectangle:{X:0 Y:285 Width:320 Height:455}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:36
+TextureIndex:0
+SpriteRectangle:{X:320 Y:285 Width:320 Height:455}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:36
+TextureIndex:0
+SpriteRectangle:{X:640 Y:285 Width:320 Height:455}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:36
+TextureIndex:0
+SpriteRectangle:{X:960 Y:285 Width:320 Height:455}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:36
+TextureIndex:0
+SpriteRectangle:{X:1280 Y:285 Width:320 Height:455}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:36
+TextureIndex:0
+SpriteRectangle:{X:1600 Y:285 Width:320 Height:455}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<LAYER>
+LayerName:HillShort
+LayerParallax:{X:0.3 Y:0.3}
+IsAwake:True
+IsVisible:True
+IsLayerMotion:False
+LayerVelocity:0
+LayerVDirection:{X:0 Y:0}
+IsLayerGravity:False
+LayerAcceleration:0
+LayerADirection:{X:0 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:35
+TextureIndex:0
+SpriteRectangle:{X:0 Y:532 Width:320 Height:315}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:35
+TextureIndex:0
+SpriteRectangle:{X:320 Y:532 Width:320 Height:315}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:35
+TextureIndex:0
+SpriteRectangle:{X:640 Y:532 Width:320 Height:315}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:35
+TextureIndex:0
+SpriteRectangle:{X:960 Y:532 Width:320 Height:315}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:35
+TextureIndex:0
+SpriteRectangle:{X:1280 Y:532 Width:320 Height:315}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:35
+TextureIndex:0
+SpriteRectangle:{X:1600 Y:532 Width:320 Height:315}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<LAYER>
+LayerName:Grass-Hills
+LayerParallax:{X:0.5 Y:0.5}
+IsAwake:True
+IsVisible:True
+IsLayerMotion:False
+LayerVelocity:0
+LayerVDirection:{X:0 Y:0}
+IsLayerGravity:False
+LayerAcceleration:0
+LayerADirection:{X:0 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:33
+TextureIndex:0
+SpriteRectangle:{X:0 Y:342 Width:1280 Height:720}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:33
+TextureIndex:0
+SpriteRectangle:{X:1280 Y:342 Width:1280 Height:720}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<LAYER>
+LayerName:5
+LayerParallax:{X:1 Y:1}
+IsAwake:True
+IsVisible:True
+IsLayerMotion:False
+LayerVelocity:0
+LayerVDirection:{X:0 Y:0}
+IsLayerGravity:False
+LayerAcceleration:0
+LayerADirection:{X:0 Y:1}
+<ENDLAYER>
+
+<LAYER>
+LayerName:6
+LayerParallax:{X:1 Y:1}
+IsAwake:True
+IsVisible:True
+IsLayerMotion:False
+LayerVelocity:0
+LayerVDirection:{X:0 Y:0}
+IsLayerGravity:False
+LayerAcceleration:0
+LayerADirection:{X:0 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:0 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:64 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:128 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:192 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:256 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:320 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:384 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:448 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:512 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:0 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:64 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:128 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:192 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:256 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:320 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:384 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:448 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:512 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:576 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:640 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:704 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:768 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:832 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:896 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:960 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:1024 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:1088 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:1152 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:1216 Y:1536 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:576 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:640 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:704 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:768 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:832 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:896 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:960 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:1024 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:1088 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:1152 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:TERRAIN
+TextureID:37
+TextureIndex:0
+SpriteRectangle:{X:1216 Y:1472 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:CANNON
+TextureID:2
+TextureIndex:0
+SpriteRectangle:{X:48 Y:1376 Width:96 Height:96}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1248 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1184 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1120 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1056 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:992 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:928 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:864 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:800 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:736 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:672 Y:1440 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:704 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:768 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:832 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:896 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:960 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1024 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1088 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1152 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1216 Y:1376 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1184 Y:1312 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1120 Y:1312 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1056 Y:1312 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:992 Y:1312 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:928 Y:1312 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:864 Y:1312 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:800 Y:1312 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:736 Y:1312 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:768 Y:1248 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:832 Y:1248 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:896 Y:1248 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:960 Y:1248 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1024 Y:1248 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1088 Y:1248 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1152 Y:1248 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1120 Y:1184 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1056 Y:1184 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:992 Y:1184 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:928 Y:1184 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:864 Y:1184 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:800 Y:1184 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:832 Y:1120 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:896 Y:1120 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:960 Y:1120 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1024 Y:1120 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1088 Y:1120 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1056 Y:1056 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:992 Y:1056 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:928 Y:1056 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:864 Y:1056 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:896 Y:992 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:960 Y:992 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1024 Y:992 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:880 Y:1024 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:944 Y:1024 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1008 Y:1024 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:976 Y:960 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:912 Y:960 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1040 Y:1088 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:976 Y:1088 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:912 Y:1088 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:848 Y:1088 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:816 Y:1152 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:880 Y:1152 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:944 Y:1152 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1008 Y:1152 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1072 Y:1152 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1104 Y:1216 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1040 Y:1216 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:976 Y:1216 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:912 Y:1216 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:848 Y:1216 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:784 Y:1216 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:752 Y:1280 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:816 Y:1280 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:880 Y:1280 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:944 Y:1280 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1008 Y:1280 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1072 Y:1280 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1136 Y:1280 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1168 Y:1344 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1104 Y:1344 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1040 Y:1344 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:976 Y:1344 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:912 Y:1344 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:848 Y:1344 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:784 Y:1344 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:720 Y:1344 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:688 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:752 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:816 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:880 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:944 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1008 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1072 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1136 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:10
+TextureIndex:0
+SpriteRectangle:{X:1200 Y:1408 Width:64 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:912 Y:928 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1008 Y:928 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:VEGGIE
+TextureID:1
+TextureIndex:2
+SpriteRectangle:{X:944 Y:896 Width:64 Height:64}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:912 Y:896 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:BLOCK
+TextureID:7
+TextureIndex:0
+SpriteRectangle:{X:1008 Y:896 Width:32 Height:32}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:HAZARD
+TextureID:22
+TextureIndex:0
+SpriteRectangle:{X:610 Y:1454 Width:60 Height:18}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:HAZARD
+TextureID:22
+TextureIndex:0
+SpriteRectangle:{X:482 Y:1454 Width:60 Height:18}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<SPRITE>
+SpriteType:HAZARD
+TextureID:22
+TextureIndex:0
+SpriteRectangle:{X:354 Y:1453 Width:60 Height:18}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<LAYER>
+LayerName:7
+LayerParallax:{X:1 Y:1}
+IsAwake:True
+IsVisible:True
+IsLayerMotion:False
+LayerVelocity:0
+LayerVDirection:{X:0 Y:0}
+IsLayerGravity:False
+LayerAcceleration:0
+LayerADirection:{X:0 Y:1}
+<ENDLAYER>
+
+<SPRITE>
+SpriteType:NONE
+TextureID:3
+TextureIndex:0
+SpriteRectangle:{X:48 Y:1376 Width:96 Height:96}
+TintColor:{R:255 G:255 B:255 A:255}
+IsFlippedHorizontally:False
+IsFlippedVertically:False
+IsAwake:False
+IsVisible:True
+IsCollidable:False
+CollisionRadius:0
+IsMobile:False
+Velocity:0
+Direction:{X:0 Y:0}
+IsRotating:False
+RotationSpeed:0
+TotalRotation:0
+Scale:1
+IsAnimated:False
+IsAnimatedWhileStopped:False
+IsBounceAnimated:False
+AnimationFPS:0
+<ENDSPRITE>
+
+<LAYER>
+LayerName:8
+LayerParallax:{X:1 Y:1}
+IsAwake:True
+IsVisible:True
+IsLayerMotion:False
+LayerVelocity:0
+LayerVDirection:{X:0 Y:0}
+IsLayerGravity:False
+LayerAcceleration:0
+LayerADirection:{X:0 Y:1}
+<ENDLAYER>
+
+<ENDFILE>

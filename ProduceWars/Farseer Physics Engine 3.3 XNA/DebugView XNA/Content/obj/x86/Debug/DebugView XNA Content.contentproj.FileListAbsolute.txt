@@ -1,0 +1,1 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache

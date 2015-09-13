@@ -1,0 +1,11 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\bin\x86\Debug\Content\font.xnb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\bin\x86\Debug\DebugViewXNA.XML
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\bin\x86\Debug\DebugViewXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\bin\x86\Debug\DebugViewXNA.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\obj\x86\Debug\DebugViewXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Testbed XNA\DebugView XNA\obj\x86\Debug\DebugViewXNA.pdb

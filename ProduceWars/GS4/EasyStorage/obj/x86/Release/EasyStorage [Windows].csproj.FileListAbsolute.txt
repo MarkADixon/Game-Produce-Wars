@@ -1,0 +1,46 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\bin\x86\Release\EasyStorage.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\bin\x86\Release\EasyStorage.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\bin\x86\Release\de\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\bin\x86\Release\es\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\bin\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\bin\x86\Release\it\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\bin\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.resources
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.de.resources
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.es.resources
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.fr.resources
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.it.resources
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.ja.resources
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\de\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\es\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\it\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.pdb
+C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage [Windows].csprojResolveAssemblyReference.cache
+C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage [Windows].csproj.GenerateResource.Cache
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\bin\x86\Release\EasyStorage.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\bin\x86\Release\EasyStorage.pdb
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\bin\x86\Release\de\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\bin\x86\Release\es\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\bin\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\bin\x86\Release\it\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\bin\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage [Windows].csprojResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.resources
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.de.resources
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.es.resources
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.fr.resources
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.it.resources
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.Strings.ja.resources
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage [Windows].csproj.GenerateResource.Cache
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\de\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\es\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\it\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.dll
+C:\Users\Bauer\Documents\GitHub\Gigaloth_ProduceWars_Game_CSharp\ProduceWars\GS4\EasyStorage\obj\x86\Release\EasyStorage.pdb

@@ -1,0 +1,875 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>UI\blank.png</Source>
+      <Name>UI\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\blank.xnb</Output>
+      <Time>2012-04-03T14:32:32.1181-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Titlebackground.png</Source>
+      <Name>UI\Titlebackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\Titlebackground.xnb</Output>
+      <Time>2012-04-03T14:34:13.4703415-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\gradient.png</Source>
+      <Name>UI\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\gradient.xnb</Output>
+      <Time>2012-04-03T14:34:57.4148278-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fruit\fruits.png</Source>
+      <Name>Textures\Fruit\fruits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Fruit\fruits.xnb</Output>
+      <Time>2012-05-01T16:18:11.6882382-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Veggies\veggies.png</Source>
+      <Name>Textures\Veggies\veggies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Veggies\veggies.xnb</Output>
+      <Time>2012-05-01T16:20:16.3965198-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\GrassDeco.png</Source>
+      <Name>Textures\World1\GrassDeco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World1\GrassDeco.xnb</Output>
+      <Time>2012-05-15T16:03:32.3045451-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\GrassTerrain.png</Source>
+      <Name>Textures\World1\GrassTerrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World1\GrassTerrain.xnb</Output>
+      <Time>2012-05-01T16:23:04.8589271-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Moire.spritefont</Source>
+      <Name>UI\Moire</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\documents\visual studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\Moire.xnb</Output>
+      <Time>2012-04-03T14:36:50.9366679-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\MoireSm.spritefont</Source>
+      <Name>UI\MoireSm</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\MoireSm.xnb</Output>
+      <Time>2012-04-05T11:31:29.3272025-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\AnimatedDeco\Sunflower.png</Source>
+      <Name>Textures\AnimatedDeco\Sunflower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\AnimatedDeco\Sunflower.xnb</Output>
+      <Time>2012-04-05T16:30:25.97312-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\SawBladeL.png</Source>
+      <Name>Textures\Hazards\SawBladeL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\SawBladeL.xnb</Output>
+      <Time>2012-05-10T15:45:11.0368162-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\SawBladeM.png</Source>
+      <Name>Textures\Hazards\SawBladeM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\SawBladeM.xnb</Output>
+      <Time>2012-05-10T15:45:11.0388163-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\SawBladeS.png</Source>
+      <Name>Textures\Hazards\SawBladeS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\SawBladeS.xnb</Output>
+      <Time>2012-05-10T15:45:11.0398164-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\HillShort.png</Source>
+      <Name>Textures\World1\HillShort</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World1\HillShort.xnb</Output>
+      <Time>2012-04-11T18:11:26.3501214-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\HillTall.png</Source>
+      <Name>Textures\World1\HillTall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World1\HillTall.xnb</Output>
+      <Time>2012-04-11T18:11:30.2013417-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\MenuCorner.png</Source>
+      <Name>UI\MenuCorner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\MenuCorner.xnb</Output>
+      <Time>2012-04-09T14:43:52.9137242-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\MenuSide.png</Source>
+      <Name>UI\MenuSide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\MenuSide.xnb</Output>
+      <Time>2012-04-09T14:44:00.6320178-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\MenuBack.png</Source>
+      <Name>UI\MenuBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\MenuBack.xnb</Output>
+      <Time>2012-04-09T14:44:14.5345569-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\xboxControllerSpriteFont.tga</Source>
+      <Name>UI\xboxControllerSpriteFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\xboxControllerSpriteFont.xnb</Output>
+      <Time>2012-04-09T14:46:03.3162188-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\pellet.png</Source>
+      <Name>UI\pellet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\pellet.xnb</Output>
+      <Time>2012-04-09T17:43:35.8766939-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\PowerFrame.png</Source>
+      <Name>UI\PowerFrame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\PowerFrame.xnb</Output>
+      <Time>2012-04-11T18:20:01.7295995-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\PowerBar.png</Source>
+      <Name>UI\PowerBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\PowerBar.xnb</Output>
+      <Time>2012-04-11T18:20:12.3932094-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\AnimatedDeco\Water.png</Source>
+      <Name>Textures\AnimatedDeco\Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\AnimatedDeco\Water.xnb</Output>
+      <Time>2012-05-01T16:16:44.0869821-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\FanM.png</Source>
+      <Name>Textures\Hazards\FanM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\FanM.xnb</Output>
+      <Time>2012-05-10T15:45:11.033816-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\Fish.png</Source>
+      <Name>Textures\Hazards\Fish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\Fish.xnb</Output>
+      <Time>2012-05-10T15:45:11.0348161-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\TNTL.png</Source>
+      <Name>Textures\Hazards\TNTL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\TNTL.xnb</Output>
+      <Time>2012-05-10T15:45:11.0418165-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\TNTM.png</Source>
+      <Name>Textures\Hazards\TNTM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\TNTM.xnb</Output>
+      <Time>2012-05-10T15:45:11.0438166-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\TNTS.png</Source>
+      <Name>Textures\Hazards\TNTS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\TNTS.xnb</Output>
+      <Time>2012-05-10T15:45:11.0458167-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerups\PeachCoin.png</Source>
+      <Name>Textures\Powerups\PeachCoin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Powerups\PeachCoin.xnb</Output>
+      <Time>2012-05-15T15:58:09.9948255-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\Grass-Hills.png</Source>
+      <Name>Textures\World1\Grass-Hills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World1\Grass-Hills.xnb</Output>
+      <Time>2012-04-11T18:11:08.3020892-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\Grass-Hills02.png</Source>
+      <Name>Textures\World1\Grass-Hills02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World1\Grass-Hills02.xnb</Output>
+      <Time>2012-04-11T18:11:12.6563382-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WorldAll\SkyDay.png</Source>
+      <Name>Textures\WorldAll\SkyDay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\WorldAll\SkyDay.xnb</Output>
+      <Time>2012-04-11T18:17:43.1526733-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WorldAll\SkyDusk.png</Source>
+      <Name>Textures\WorldAll\SkyDusk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\WorldAll\SkyDusk.xnb</Output>
+      <Time>2012-04-11T18:17:48.3019678-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WorldAll\SkyNight.png</Source>
+      <Name>Textures\WorldAll\SkyNight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\WorldAll\SkyNight.xnb</Output>
+      <Time>2012-04-11T18:17:52.7372215-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World2\BackBushes.png</Source>
+      <Name>Textures\World2\BackBushes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World2\BackBushes.xnb</Output>
+      <Time>2012-05-01T16:28:43.2737861-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World2\Canopy.png</Source>
+      <Name>Textures\World2\Canopy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World2\Canopy.xnb</Output>
+      <Time>2012-05-01T16:28:47.0128063-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World2\CloseBushes.png</Source>
+      <Name>Textures\World2\CloseBushes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World2\CloseBushes.xnb</Output>
+      <Time>2012-05-01T16:28:50.8108272-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World2\CloseTrees.png</Source>
+      <Name>Textures\World2\CloseTrees</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World2\CloseTrees.xnb</Output>
+      <Time>2012-05-01T16:28:54.7018472-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World2\FrontBushes.png</Source>
+      <Name>Textures\World2\FrontBushes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World2\FrontBushes.xnb</Output>
+      <Time>2012-05-01T16:28:58.5698687-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World2\MidBushes.png</Source>
+      <Name>Textures\World2\MidBushes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World2\MidBushes.xnb</Output>
+      <Time>2012-05-01T16:29:02.6278949-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World2\WoodsDeco.png</Source>
+      <Name>Textures\World2\WoodsDeco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World2\WoodsDeco.xnb</Output>
+      <Time>2012-05-15T16:02:23.215339-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World2\WoodsTerrain.png</Source>
+      <Name>Textures\World2\WoodsTerrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World2\WoodsTerrain.xnb</Output>
+      <Time>2012-05-01T16:29:10.3659435-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Power02.png</Source>
+      <Name>UI\Power02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\Power02.xnb</Output>
+      <Time>2012-04-11T18:20:17.4755001-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Power01.png</Source>
+      <Name>UI\Power01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\Power01.xnb</Output>
+      <Time>2012-04-11T18:20:22.700799-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Angle02.png</Source>
+      <Name>UI\Angle02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\Angle02.xnb</Output>
+      <Time>2012-04-11T18:20:27.5350755-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Angle01.png</Source>
+      <Name>UI\Angle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\Angle01.xnb</Output>
+      <Time>2012-04-11T18:20:32.0943362-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World3\CloseDunes.png</Source>
+      <Name>Textures\World3\CloseDunes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World3\CloseDunes.xnb</Output>
+      <Time>2012-05-15T16:08:28.8062426-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World3\ClosePyramids.png</Source>
+      <Name>Textures\World3\ClosePyramids</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World3\ClosePyramids.xnb</Output>
+      <Time>2012-05-15T16:08:28.8062426-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World3\DesertDeco.png</Source>
+      <Name>Textures\World3\DesertDeco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World3\DesertDeco.xnb</Output>
+      <Time>2012-05-15T16:08:28.8062426-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World3\DesertSun.png</Source>
+      <Name>Textures\World3\DesertSun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World3\DesertSun.xnb</Output>
+      <Time>2012-05-15T16:08:28.8162426-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World3\DesertTerrain.png</Source>
+      <Name>Textures\World3\DesertTerrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World3\DesertTerrain.xnb</Output>
+      <Time>2012-05-15T16:08:28.8162426-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World3\FarDunes.png</Source>
+      <Name>Textures\World3\FarDunes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World3\FarDunes.xnb</Output>
+      <Time>2012-05-15T16:08:28.8162426-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World3\FarPyramids.png</Source>
+      <Name>Textures\World3\FarPyramids</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World3\FarPyramids.xnb</Output>
+      <Time>2012-05-15T16:08:28.8162426-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WorldAll\Windmill.png</Source>
+      <Name>Textures\WorldAll\Windmill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\WorldAll\Windmill.xnb</Output>
+      <Time>2012-05-01T16:43:04.562812-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\Windmill_Blade.png</Source>
+      <Name>Textures\Hazards\Windmill_Blade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\Windmill_Blade.xnb</Output>
+      <Time>2012-05-10T15:45:11.0478168-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\BackBank.png</Source>
+      <Name>Textures\World4\BackBank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\BackBank.xnb</Output>
+      <Time>2012-05-15T16:06:27.5769128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\BackMtns.png</Source>
+      <Name>Textures\World4\BackMtns</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\BackMtns.xnb</Output>
+      <Time>2012-05-15T16:06:27.5769128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\BackTrees.png</Source>
+      <Name>Textures\World4\BackTrees</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\BackTrees.xnb</Output>
+      <Time>2012-05-15T16:06:27.5869128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\FrontBank.png</Source>
+      <Name>Textures\World4\FrontBank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\FrontBank.xnb</Output>
+      <Time>2012-05-15T16:06:27.5869128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\FrontMtns.png</Source>
+      <Name>Textures\World4\FrontMtns</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\FrontMtns.xnb</Output>
+      <Time>2012-05-15T16:06:27.5869128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\FrontTrees.png</Source>
+      <Name>Textures\World4\FrontTrees</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\FrontTrees.xnb</Output>
+      <Time>2012-05-15T16:06:27.5869128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\MidBank.png</Source>
+      <Name>Textures\World4\MidBank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\MidBank.xnb</Output>
+      <Time>2012-05-15T16:06:27.5869128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\MidTrees.png</Source>
+      <Name>Textures\World4\MidTrees</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\MidTrees.xnb</Output>
+      <Time>2012-05-15T16:06:27.5969128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Gamefont.spritefont</Source>
+      <Name>UI\Gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\Gamefont.xnb</Output>
+      <Time>2012-05-10T14:19:10.9346752-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\GamefontSm.spritefont</Source>
+      <Name>UI\GamefontSm</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\UI\GamefontSm.xnb</Output>
+      <Time>2012-05-10T14:19:17.015023-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\1x1Block.png</Source>
+      <Name>Textures\Blocks\1x1Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\1x1Block.xnb</Output>
+      <Time>2012-05-15T15:54:10.1055556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\2x1Block.png</Source>
+      <Name>Textures\Blocks\2x1Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\2x1Block.xnb</Output>
+      <Time>2012-05-15T15:54:11.0886118-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\2x2Block.png</Source>
+      <Name>Textures\Blocks\2x2Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\2x2Block.xnb</Output>
+      <Time>2012-05-15T15:54:12.0686679-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\2x2Sphere.png</Source>
+      <Name>Textures\Blocks\2x2Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\2x2Sphere.xnb</Output>
+      <Time>2012-05-15T15:54:13.0857238-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\4x1Block.png</Source>
+      <Name>Textures\Blocks\4x1Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\4x1Block.xnb</Output>
+      <Time>2012-05-15T15:54:13.8107653-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\4x2Block.png</Source>
+      <Name>Textures\Blocks\4x2Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\4x2Block.xnb</Output>
+      <Time>2012-05-15T15:54:15.2168457-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\4x4Block.png</Source>
+      <Name>Textures\Blocks\4x4Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\4x4Block.xnb</Output>
+      <Time>2012-05-15T15:54:15.6548708-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\4x4Sphere.png</Source>
+      <Name>Textures\Blocks\4x4Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\4x4Sphere.xnb</Output>
+      <Time>2012-05-15T15:54:17.3469676-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\6x6Block.png</Source>
+      <Name>Textures\Blocks\6x6Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\6x6Block.xnb</Output>
+      <Time>2012-05-15T15:54:17.7809924-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cannon\Cannon.png</Source>
+      <Name>Textures\Cannon\Cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Cannon\Cannon.xnb</Output>
+      <Time>2012-05-10T15:32:05.4248818-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cannon\Wheel.png</Source>
+      <Name>Textures\Cannon\Wheel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Cannon\Wheel.xnb</Output>
+      <Time>2012-05-10T15:32:05.4268819-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Bomb.png</Source>
+      <Name>Textures\Effects\Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Bomb.xnb</Output>
+      <Time>2012-05-10T15:37:09.8592944-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Debris.png</Source>
+      <Name>Textures\Effects\Debris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Debris.xnb</Output>
+      <Time>2012-05-10T15:37:09.9583001-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Smoke_128.png</Source>
+      <Name>Textures\Effects\Smoke_128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Smoke_128.xnb</Output>
+      <Time>2012-05-10T15:37:10.0763068-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Smoke_64.png</Source>
+      <Name>Textures\Effects\Smoke_64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Smoke_64.xnb</Output>
+      <Time>2012-05-10T15:37:09.9833015-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Splat_Orange.png</Source>
+      <Name>Textures\Effects\Splat_Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Splat_Orange.xnb</Output>
+      <Time>2012-05-10T15:37:10.1443107-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Wind.png</Source>
+      <Name>Textures\Effects\Wind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Wind.xnb</Output>
+      <Time>2012-05-10T15:37:10.1903133-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\Beehive.png</Source>
+      <Name>Textures\Hazards\Beehive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\Beehive.xnb</Output>
+      <Time>2012-05-10T15:45:11.0298158-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hazards\Campfire.png</Source>
+      <Name>Textures\Hazards\Campfire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Hazards\Campfire.xnb</Output>
+      <Time>2012-05-10T15:45:11.0318159-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\SnowDeco.png</Source>
+      <Name>Textures\World4\SnowDeco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\SnowDeco.xnb</Output>
+      <Time>2012-05-15T16:06:27.5969128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World4\SnowTerrain.png</Source>
+      <Name>Textures\World4\SnowTerrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\World4\SnowTerrain.xnb</Output>
+      <Time>2012-05-15T16:06:27.5969128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Fireball_16.png</Source>
+      <Name>Textures\Effects\Fireball_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Fireball_16.xnb</Output>
+      <Time>2012-05-10T17:08:47.5997472-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Fireball_32.png</Source>
+      <Name>Textures\Effects\Fireball_32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Fireball_32.xnb</Output>
+      <Time>2012-05-10T17:08:47.6507501-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Puff_16.png</Source>
+      <Name>Textures\Effects\Puff_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Puff_16.xnb</Output>
+      <Time>2012-05-10T17:08:47.7177539-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\Puff_32.png</Source>
+      <Name>Textures\Effects\Puff_32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Effects\Puff_32.xnb</Output>
+      <Time>2012-05-10T17:08:47.7907581-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\10x1Block.png</Source>
+      <Name>Textures\Blocks\10x1Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\10x1Block.xnb</Output>
+      <Time>2012-05-15T15:54:24.6753867-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\8x1Block.png</Source>
+      <Name>Textures\Blocks\8x1Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\Textures\Blocks\8x1Block.xnb</Output>
+      <Time>2012-05-15T15:54:21.4011994-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C214356C-500A-4FC0-8B42-290438ADCA3A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWarsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ProduceWars\ProduceWars\ProduceWars\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-03T17:15:53.325359-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

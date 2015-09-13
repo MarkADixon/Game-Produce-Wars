@@ -1,0 +1,1152 @@
+<DATA>
+World:0
+Level:1
+Name:The Basics
+B:3
+S:2
+G:1
+Intro:true
+Text:1:Welcome to the Training Grounds!
+Cursor:false
+Look:false
+Text:1:We've set up some DUMMIES here in the Orchard for you to train with. When we set out from the Orchard, the veggies will be waiting, so make sure to hone your skills!
+Cursor:true:1975:855
+Look:true:1975:775
+Text:1:We launch our troops from this BARREL CANNON here. Using our cannon, eliminate all veggies to clear each area.
+Cursor:true:365:1144
+Look:true:365:1144
+Text:1:Let's go over the controls.
+Cursor:true:365:1144
+Look:true:365:1144
+Text:1:The camera controls are pretty simple. Use (RS) to move the camera around, and (LB) and (RB) to zoom in and out. Clicking (RS) will reset the camera.
+Cursor:false
+Look:false
+Text:1:Use (LS) to aim the barrel cannon, and (LT) and (RT) to adjust the power of the shot. Notice the predicted trajectory of the shot is shown.
+Cursor:false
+Look:false
+Text:1:Begin the shot power bar by pressing (A), and press (A) again to fire. Make sure to stop the bar at or near the power indicator for a more accurate shot.
+Cursor:false
+Look:false
+Text:1:Missing the mark on a shot could be the difference between pinpoint accuracy and a complete flub!
+Cursor:false
+Look:false
+Text:1:In the air press (A) again to activate a fruit's special ability.  Try it with the apple to activate the apple copter.  You may then steer with the left thumbstick.
+Cursor:false
+Look:false
+Text:1:Completing areas in a fewer amount of shots will earn you bronze, silver, and gold medals.
+Cursor:false
+Look:false
+Text:1:Take note, you must earn a medal on 4 out of 5 stages in each row on the stage select screen in order to unlock more levels!
+Cursor:false
+Look:false
+Text:1:Finally, you'll notice that each new area has a STAR in it like this one. Stars can be collected to unlock secret bonus areas!
+Cursor:true:1792:975
+Look:true:1792:895
+Text:1:However, you must earn a medal for the star to count, so plan your shots wisely.
+Cursor:false
+Look:true:1792:895
+Text:1:Sometimes, you will come across stars that you can't reach at first. That's okay! You can always revisit an area once you have the ability to reach it.
+Cursor:false
+Look:true:1792:895
+Text:1:Enough talking for now. It's time you learned for yourself!
+Cursor:false
+Look:false
+<ENDDATA>
+
+<DATA>
+World:0
+Level:2
+Name:Block Types
+B:3
+S:2
+G:1
+Intro:true
+Text:1:When you set out on your journey, you'll come across structures and fortresses that the veggies have built to protect themselves. It's your job to destroy them.
+Cursor:false
+Look:true:1916:882
+Text:1:With that knowledge, let's introduce you to the types of BLOCKS.
+Cursor:false
+Look:true:1916:882
+Text:1:CHEESE blocks are very light and bouncy, and very easy to destroy.
+Cursor:true:1916:902
+Look:true:1916:822
+Text:1:WOOD blocks are the most common, and are fairly easy to destroy.
+Cursor:true:1852:1032
+Look:true:1852:952
+Text:1:STONE blocks are very heavy, and very difficult to destroy.
+Cursor:true:1852:1106
+Look:true:1852:1026
+Text:1:ICE blocks are sturdy, but are very slippery.
+Cursor:true:1568:1170
+Look:true:1568:1090
+Text:1:METAL blocks are completely immovable and indestructible.
+Cursor:true:1882:1176
+Look:true:1882:1096
+Text:1:PLATFORM blocks are indestructible much like metal blocks, but will often times be moving.
+Cursor:true:1758:1238
+Look:true:1758:1158
+Text:1:Be sure to analyze structures for weak points depending on block types. Also, you may have to use certain blocks in interesting ways to achieve your goal!
+Cursor:false
+Look:true:1916:882
+<ENDDATA>
+
+<DATA>
+World:0
+Level:3
+Name:Wild Things
+B:3
+S:2
+G:1
+Intro:true
+Text:1:Fruit and veggies aren't the only ones that inhabit this world!
+Cursor:false
+Look:true:1580:1230
+Text:1:You'll come across many critters like this REDGILL in your travels that don't take too kindly to fruit. Try to avoid them as much as possible, except when absolutely necessary.
+Cursor:true:1580:1310
+Look:true:1580:1230
+Text:1:As you venture further from the Orchard, the critters will get much more dangerous and vicious. When critters are present in an area, proceed with caution!
+Cursor:false
+Look:true:1580:1230
+<ENDDATA>
+
+<DATA>
+World:0
+Level:4
+Name:Sharp Things
+B:4
+S:2
+G:1
+Intro:true
+Text:1:As you travel, watch out for dangerous terrain as well. Some obstacles will cause any fruit or veggie to meet an unfortunate end!
+Cursor:false
+Look:true:2045:980
+Text:1:SAWBLADES like this one will destory everything in their path, including fruit, veggies, and even blocks.
+Cursor:true:1854:1110
+Look:true:1854:1030
+Text:1:SPIKES are dangerous to fruit and veggies, but blocks may pass through them unharmed. Use this to your advantage when figuring out how to get at some veggies.
+Cursor:true:2045:1172
+Look:true:2045:1092
+Text:1:Try using this BOULDER to crush the dummy below!
+Cursor:true:1948:965
+Look:true:1948:885
+<ENDDATA>
+
+<DATA>
+World:0
+Level:5
+Name:Explosive Things
+B:3
+S:2
+G:1
+Intro:true
+Text:1:When analyzing structures, be on the lookout for TNT CRATES. These crates are full of high powered explosives that will bring structures down quickly.
+Cursor:true:2254:1106
+Look:true:2254:1026
+Text:1:Try impacting the TNT crates here to see what happens!
+Cursor:false
+Look:true:2254:1026
+<ENDDATA>
+
+<DATA>
+World:0
+Level:6
+Name:Barrels
+B:3
+S:2
+G:1
+Intro:true
+Text:1:I think it's time you learned about RELAY BARRELS.
+Cursor:true:1612:1015
+Look:true:1612:935
+Text:1:If you shoot into a relay barrel, you may take a second shot from that barrel. This can get you a different angle on a structure or help you through a tight space.
+Cursor:true:1612:1015
+Look:true:1612:935
+Text:1:In many areas, relay barrels will be absolutely necessary to move on. Note that relay barrels have no power mechanism, and will fire immediately when you press (A)!
+Cursor:false
+Look:true:1612:935
+Text:1:Any barrel marked with a star is a CHECKPOINT BARREL. Any shots you take will be from the last checkpoint barrel that you reached.
+Cursor:false
+Look:true:1612:935
+Text:1:Try using the relay barrels in this area to reach the dummy!
+Cursor:false
+Look:true:2808:970
+<ENDDATA>
+
+<DATA>
+World:0
+Level:7
+Name:Switches
+B:3
+S:2
+G:1
+Intro:true
+Text:1:These mysterious creatures are called SWITCH MASTERS.
+Cursor:true:2220:950
+Look:true:2220:870
+Text:1:Switch masters are present in some areas, and when impacted with a fruit or veggie, turn on/off all platform blocks of the same color.
+Cursor:true:2220:950
+Look:true:2220:870
+Text:1:You may even encounter multiple masters in the same area, each with different colors. Pay attention to the location of colored blocks, and use switch masters to clear stages.
+Cursor:false
+Look:true:2220:870
+Text:1:Try hitting the switch master to see what happens to the red blocks!
+Cursor:false
+Look:true:2220:870
+<ENDDATA>
+
+<DATA>
+World:0
+Level:8
+Name:Springs and Fans
+B:3
+S:2
+G:1
+Intro:true
+Text:1:You may come across other obstacles in your travels that you will have to use to clear an area.
+Cursor:false
+Look:false
+Text:1:SPRINGS will bounce fruit, veggies, or blocks like a trampoline.
+Cursor:true:2070:1558
+Look:true:2070:1478
+Text:1:FANS create a powerful wind current that can change the direction of your shot.
+Cursor:true:1130:392
+Look:true:1130:312
+Text:1:Try hitting the dummy here using either the springs or fans, or maybe even both!
+Cursor:false
+Look:true:1340:825
+<ENDDATA>
+
+<DATA>
+World:0
+Level:9
+Name:Countdown Barrels
+B:3
+S:2
+G:1
+Safety:true
+Intro:true
+Text:1:In some areas, even your starting barrel cannon may not be safe!
+Cursor:false
+Look:true:640:570
+Text:1:In these areas, pay attention to the COUNTDOWN TIMER at the top of your screen. As long the time hasn't expired, your fruit is safe.
+Cursor:false
+Look:true:640:570
+Text:1:But be on your toes! Make sure you get to a safe barrel before the timer expires. Otherwise, you may lose your shot!
+Cursor:false
+Look:true:640:570
+Text:1:Get yourself ready!
+Cursor:false
+Look:true:640:570
+<ENDDATA>
+
+<DATA>
+World:0
+Level:10
+Name:Power-ups
+B:3
+S:2
+G:1
+Intro:true
+Text:1:Finally, let's talk about POWER-UPS.
+Cursor:false
+Look:false
+Text:1:Sometimes, relay barrels will have special properties indicated by the markings on the side. These barrels provide powerful ABILITIES you can use to take down structures.
+Cursor:true:682:876
+Look:true:682:792
+Text:1:Each power-up barrel only gives a single shot, so be careful when and where you decide to use them!
+Cursor:false
+Look:true:682:792
+Text:1:As you see new and interesting power-ups along the way, play with the effects to complete areas more efficiently.
+Cursor:false
+Look:true:682:792
+<ENDDATA>
+
+<DATA>
+World:0
+Level:11
+Name:No Level
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:0
+Level:12
+Name:No Level
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:0
+Level:13
+Name:No Level
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:0
+Level:14
+Name:No Level
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:0
+Level:15
+Name:No Level
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:1
+Name:Tower Time
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:2
+Name:Topple
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:3
+Name:Sunflower Hill
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:4
+Name:Carrot Tippin'
+B:4
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:5
+Name:Red Versus Blue
+B:5
+S:3
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:6
+Name:Stillwater
+B:5
+S:3
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:7
+Name:Joy Ride
+B:5
+S:3
+G:1
+Safety:true
+<ENDDATA>
+
+<DATA>
+World:1
+Level:8
+Name:Pier to Pier
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:9
+Name:High-Low
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:1
+Level:10
+Name:Roll 'em Up
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:11
+Name:Sharp Edges
+B:4
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:12
+Name:Orchard Manor
+B:4
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:13
+Name:Quickdraw Cavern
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:1
+Level:14
+Name:Hill Fort
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:1
+Level:15
+Name:Leaning Tower of Cheese-A
+B:5
+S:3
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:1
+Name:Honeycomb
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:2
+Name:Just in Time
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:3
+Name:Ricochet Love
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:4
+Name:Over Under
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:5
+Name:Colorful Friends
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:2
+Level:6
+Name:Flooded
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:7
+Name:Back Door
+B:4
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:8
+Name:Caged
+B:4
+S:2
+G:1
+Safety:true
+<ENDDATA>
+
+<DATA>
+World:2
+Level:9
+Name:Sawmill
+B:4
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:10
+Name:52 Block Pickup
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:11
+Name:Forest Temple
+B:5
+S:3
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:12
+Name:On a Slant
+B:4
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:2
+Level:13
+Name:Where the Wild Things Are
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:2
+Level:14
+Name:Tree Houses
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:2
+Level:15
+Name:The Big Tree
+B:6
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:3
+Level:1
+Name:Quarry
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:3
+Level:2
+Name:A Matter of Timing
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:3
+Level:3
+Name:Desert Rose
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:3
+Level:4
+Name:Hideout
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:3
+Level:5
+Name:Damascus
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:3
+Level:6
+Name:Carnival
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:3
+Level:7
+Name:Fire in the Hole
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:3
+Level:8
+Name:Palace of Colors
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:3
+Level:9
+Name:Oasis
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:3
+Level:10
+Name:Excavation
+B:6
+S:4
+G:2
+Safety:true
+<ENDDATA>
+
+<DATA>
+World:3
+Level:11
+Name:Bombers
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:3
+Level:12
+Name:Cliff Dwellings
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:3
+Level:13
+Name:Landslide
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:3
+Level:14
+Name:Royal Gorge
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:3
+Level:15
+Name:Cavern of Fears
+B:8
+S:6
+G:5
+<ENDDATA>
+
+<DATA>
+World:4
+Level:1
+Name:Pathfinder
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:4
+Level:2
+Name:Drop Kick
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:4
+Level:3
+Name:Griptease
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:4
+Level:4
+Name:Hop, Skip, and a Slide
+B:5
+S:3
+G:1
+<ENDDATA>
+
+<DATA>
+World:4
+Level:5
+Name:Rampart
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:4
+Level:6
+Name:Privateers
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:4
+Level:7
+Name:Enemies with Benefits
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:4
+Level:8
+Name:Undertow
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:4
+Level:9
+Name:Trenches
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:4
+Level:10
+Name:Matterhorn
+B:5
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:4
+Level:11
+Name:Cliffside
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:4
+Level:12
+Name:Once Upon a Spring
+B:5
+S:4
+G:2
+<ENDDATA>
+
+<DATA>
+World:4
+Level:13
+Name:To the Skies
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:4
+Level:14
+Name:Summit
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:4
+Level:15
+Name:Ice Fortress
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:5
+Level:1
+Name:Kill Room
+B:5
+S:3
+G:1
+Safety:true
+<ENDDATA>
+
+<DATA>
+World:5
+Level:2
+Name:Pinnacle
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:5
+Level:3
+Name:Abomination
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:5
+Level:4
+Name:Custodian
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:5
+Level:5
+Name:Clocktower
+B:7
+S:5
+G:4
+<ENDDATA>
+
+<DATA>
+World:5
+Level:6
+Name:Metalhead
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:5
+Level:7
+Name:Labyrinth
+B:9
+S:8
+G:7
+<ENDDATA>
+
+<DATA>
+World:5
+Level:8
+Name:Precision Shooting
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:5
+Level:9
+Name:Devil's Playground
+B:7
+S:6
+G:5
+<ENDDATA>
+
+<DATA>
+World:5
+Level:10
+Name:Killstealer
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:5
+Level:11
+Name:Gearfoot
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:5
+Level:12
+Name:Aerodynamics
+B:6
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:5
+Level:13
+Name:The Machine
+B:5
+S:4
+G:3
+<ENDDATA>
+
+<DATA>
+World:5
+Level:14
+Name:Black Belt
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:5
+Level:15
+Name:Doc Broc
+B:-1
+S:-1
+G:-1
+Intro:true
+Text:2:Mwahahaha! You will never save the Princess now! Behold as I prepare to cook her into a tasty pastry!
+Cursor:false
+Look:false
+<ENDDATA>
+
+<DATA>
+World:6
+Level:1
+Name:This Looks Familiar
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:6
+Level:2
+Name:Redneck Fishing
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:6
+Level:3
+Name:Apple Jack 1
+B:3
+S:2
+G:1
+Intro:true
+Text:3:By the Gods it's cold out here! Not a good place for nudism.  I need to get someplace warm SHARPISH! 
+Cursor:false
+Look:true:2946:1344
+Text:3:OOH! I know! The BEACH! Right, off to warmer pastures! Now get me outta here!
+Cursor:false
+Look:true:2946:1344
+<ENDDATA>
+
+<DATA>
+World:6
+Level:4
+Name:Carrot Bowling
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:6
+Level:5
+Name:Apple Jack 2
+B:3
+S:2
+G:1
+Intro:true
+Text:3:AAGH! Bats! I HATE bats even more than pandas! It seems I always find myself in a load of trouble.
+Cursor:false
+Look:true:2912:1344
+Text:3:As in APPLE JACK 1 and 2, available for the very reasonable price of 80 MSP each in the same place you found this cheeky gem. 
+Cursor:false
+Look:true:2912:1344
+Text:3:(End of shameless plug)
+Cursor:false
+Look:true:2912:1344
+<ENDDATA>
+
+<DATA>
+World:6
+Level:6
+Name:Angry Birds
+B:4
+S:3
+G:2
+<ENDDATA>
+
+<DATA>
+World:6
+Level:7
+Name:Apple Jack 3
+B:3
+S:2
+G:1
+Intro:true
+Text:3:OOH! Well isn't this GREAT? I found the beach but there's no water! Only ruddy SAND! What kind of stupid beach is this?
+Cursor:false
+Look:true:3544:1344
+Text:3:And what's with all this flying fruit?! Bugger this for a game of soldiers, I'm going back to my own GAME!
+Cursor:false
+Look:true:3544:1344
+<ENDDATA>
+
+<DATA>
+World:6
+Level:8
+Name:Castle Bravo
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:6
+Level:9
+Name:Pumpkin Kong
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:6
+Level:10
+Name:This Side Up
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:6
+Level:11
+Name:Bounce House
+B:7
+S:6
+G:5
+Safety:true
+<ENDDATA>
+
+<DATA>
+World:6
+Level:12
+Name:You Shall Not Pass!
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<DATA>
+World:6
+Level:13
+Name:Skeet Shootin
+B:6
+S:5
+G:4
+<ENDDATA>
+
+<DATA>
+World:6
+Level:14
+Name:Icescort
+B:9
+S:7
+G:5
+<ENDDATA>
+
+<DATA>
+World:6
+Level:15
+Name:Timing Mastery
+B:3
+S:2
+G:1
+<ENDDATA>
+
+<ENDFILE>
