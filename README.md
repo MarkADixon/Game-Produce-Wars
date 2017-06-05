@@ -1,6 +1,6 @@
 # Game-Produce-Wars
 <b>Gigaloth's Produce Wars Game</b><br>
-Winner of "Best Game" in Microsoft's 2013 U.S. Imagine Cup
+Best Game Winner of Microsoft's 2013 U.S. Imagine Cup
 
 Components:<br>
 Parallax Game Engine: coded by Mark A. Dixon<br>
