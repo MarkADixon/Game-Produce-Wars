@@ -1,6 +1,7 @@
 # Game-Produce-Wars
 <b>Gigaloth's Produce Wars Game</b><br>
 Released to PC and XBOX 360 Indie Games Nov 2013<br>
+Product page: <a href="http://www.gigaloth.com/produce-wars/" target="_blank">http://www.gigaloth.com/produce-wars/</a?
 
 Awards:<br>
 Best Game Winner of Microsoft's 2013 U.S. Imagine Cup<br>
